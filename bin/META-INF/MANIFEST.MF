@@ -1,0 +1,3 @@
+Manifest-Version: 1.0 
+Main-Class: rmi.iWeather.client.WeatherClient
+Class-Path: iWeather-rmi-common.jar
